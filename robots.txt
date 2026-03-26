@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://antogeo.github.io/al-folio/sitemap.xml
+Sitemap: https://antogeo.gr/al-folio/sitemap.xml
